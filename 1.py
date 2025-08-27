@@ -1,0 +1,1 @@
+print("Welecome to the party!")
